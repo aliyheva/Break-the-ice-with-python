@@ -1,0 +1,27 @@
+# Q1:
+#1st version
+# for i in range(2000,3201):
+#     if i%7==0 and i%5!=0:
+#         print(i,end=" ")
+#2nd version
+# l=[]
+# for i in range(2000,3201):
+#     if i%7==0 and i%5!=0:
+#         l.append(str(i))
+# print(l)
+# Q2:
+# x=int(input())
+# F=1
+# i=1
+# while i<=x:
+#     F=F*i
+#     i=i+1
+# print(F)
+#Q3:
+# a={ }
+# n=int(input())
+# i=0
+# while i<=n:
+#     i=i+1
+#     a[i]=i*i
+# print(a)
